@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors Netflix -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="primary">#E70001</color>
+    <color name="primaryVariation">#AA0407</color>
+    <color name="secondary">#F70000</color>
+    <color name="background">#171417</color>
+    <color name="menu_navigation">@color/white</color>
+</resources>
